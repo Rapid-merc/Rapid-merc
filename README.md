@@ -1,6 +1,6 @@
 <p align="center" >
  
-  <img width=1800px src=https://github.com/Rapid-merc/Rapid-merc/blob/main/banner.png />
+  <img width=1800px src=https://github.com/Rapid-merc/Rapid-merc/blob/main/GitBanner.png />
   
  </p>
 
