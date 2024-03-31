@@ -1,3 +1,10 @@
+<p align="center" >
+ 
+  <img width=500px src= />
+  
+ </p>
+
+
 # 💫 About Me:
 I'm Aumshuman Mohapatra, a graphic design enthusiast with a knack for turning pixels into magic!<br>Whether it's crafting sleek logos, whipping up eye-catching posters, or sprinkling some design love on websites,<br> I'm always ready to dive into the world of colors, shapes, and typography.
 
